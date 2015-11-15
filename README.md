@@ -12,7 +12,7 @@ This script doesn’t conflict with the No-AppleScript-Feature of the standard O
 2. Alfred will then automatically add it to your existent workflows. 
 3. You can then adjust it to your needs by modifying the keystroke that is used to trigger the workflow and the keystroke to trigger the quick-entry command in OmniFocus 2.
 
-**You won't need the additional [AlfredOmniFocusQuickEntry.applescript](AlfredOmniFocusQuickEntry.applescript) file in this repository to use the workflow. I've just uploaded it for yours and my personal convenience.**
+**You won't need the additional [AlfredOmniFocusQuickEntry.applescript](AlfredOmniFocusQuickEntry.applescript) file in this repository to use the workflow. I've just uploaded it for your and my personal convenience.**
 
 
 ## License
