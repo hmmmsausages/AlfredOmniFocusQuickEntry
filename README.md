@@ -8,7 +8,7 @@ Therefore the AppleScript needs to be adjusted, if another keystroke is set in O
 This script doesn’t conflict with the No-AppleScript-Feature of the standard OmniFocus 2 versions, as it doesn’t send directly AppleScript commands to OmniFocus.
 
 ## How to install it
-1. Just download the [Add new Task in OmniFocus.alfredworkflow](Add new Task in OmniFocus.alfredworkflow) and execute it. 
+1. Just download the [AlfredOmniFocusQuickEntry.alfredworkflow](AlfredOmniFocusQuickEntry.alfredworkflow) and execute it. 
 2. Alfred will then automatically add it to your existent workflows. 
 3. You can then adjust it to your needs by modifying the keystroke that is used to trigger the workflow and the keystroke to trigger the quick-entry command in OmniFocus 2.
 
@@ -16,4 +16,19 @@ This script doesn’t conflict with the No-AppleScript-Feature of the standard O
 
 
 ## License
-GNU GENERAL PUBLIC LICENSE Version 2 (see [LICENSE](LICENSE))
+AlfredOmniFocusQuickEntry - Alfred Workflow
+Copyright (C) 2015  Andre Mueller
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
